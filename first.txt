@@ -1,3 +1,7 @@
 gitのれんしゅうを始める!!!!!
 kannjiutenainoka
 kihonntekinaogokiwomanabemasu
+gitは1作業ごとにコミット
+kihonntekinawa-kuhuro-
+/git add
+/git commit
