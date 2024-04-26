@@ -5,3 +5,4 @@ gitは1作業ごとにコミット
 kihonntekinawa-kuhuro-
 /git add
 /git commit
+/git rm
